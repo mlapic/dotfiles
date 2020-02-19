@@ -24,7 +24,7 @@ Configuration files for:
     sudo apt-get install zsh
     sudo dpkg -i Downloads/fonts-powerline_2.5-1_all.deb
 
-## Downloaded
+## Downloaded files
 
     playerctl-0.5.0_amd64.deb
     Font-Awesome-4.7.0.zip
